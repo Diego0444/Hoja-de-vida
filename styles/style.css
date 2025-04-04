@@ -1,0 +1,14 @@
+body {
+    background-color: #45439c;
+}
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 30px;
+}
+a {
+    color: #00ccff;
+    text-decoration: none;
+}
